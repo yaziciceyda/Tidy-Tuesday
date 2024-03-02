@@ -13,13 +13,13 @@ Please check the website https://github.com/rfordatascience/tidytuesday for more
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%208/Week8.png)
 
-## Week 7 - [Valentine's Day consumer data](https://github.com/yaziciceyda/Tidy-Tuesday/tree/main/2024/Week%207) 
+## Week 7 - [Valentine's Day Consumer Data](https://github.com/yaziciceyda/Tidy-Tuesday/tree/main/2024/Week%207) 
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%207/Week7.png)
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%207/Week7_v2.png)
 
-## Week 6 - World heritage sites
+## Week 6 - [World Heritage Sites](https://github.com/yaziciceyda/Tidy-Tuesday/tree/main/2024/Week%206)
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%206/Week6.png) 
 
