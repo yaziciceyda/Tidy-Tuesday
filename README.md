@@ -5,6 +5,12 @@ Please check the website https://github.com/rfordatascience/tidytuesday for more
 
 # 2024
 
+## Week 7 - Valentine's Day consumer data 
+
+![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%207/Week7.png)
+
+![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%207/Week7_v2.png)
+
 ## Week 6 - World heritage sites
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%206/Week6.png) 
