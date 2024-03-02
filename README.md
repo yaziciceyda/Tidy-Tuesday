@@ -5,7 +5,7 @@ Please check the website https://github.com/rfordatascience/tidytuesday for more
 
 # 2024
 
-## Week 9 - [Leap Day](https://github.com/rfordatascience/tidytuesday/blob/master/data/2024/2024-02-27/readme.md)
+## Week 9 - [Leap Day](https://github.com/yaziciceyda/Tidy-Tuesday/tree/main/2024/Week%209)
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%209/Week9.png)
 
