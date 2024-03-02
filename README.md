@@ -8,3 +8,7 @@ Please check the website https://github.com/rfordatascience/tidytuesday for more
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%202/Week2.png)
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%202_withTest/Week2_test.png)
+
+## Week 3 - US Polling Places 2012-2020
+
+![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%203/Week3.png)
