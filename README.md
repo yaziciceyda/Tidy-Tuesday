@@ -5,6 +5,12 @@ Please check the website https://github.com/rfordatascience/tidytuesday for more
 
 # 2024
 
+## Week 6 - World heritage sites
+
+![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%206/Week6.png) 
+
+![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%206/Week6_v2.png)
+
 ## Week 5 - Groundhog predictions
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%205/Week5.png)
