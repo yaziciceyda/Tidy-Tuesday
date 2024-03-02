@@ -5,6 +5,10 @@ Please check the website https://github.com/rfordatascience/tidytuesday for more
 
 # 2024
 
+## Week 9 - Leap Day
+
+![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%209/Week9.png)
+
 ## Week 8 - R Consortium ISC Grants
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%208/Week8.png)
