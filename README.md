@@ -9,7 +9,7 @@ Please check the website https://github.com/rfordatascience/tidytuesday for more
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%209/Week9.png)
 
-## Week 8 - R Consortium ISC Grants
+## Week 8 - [R Consortium ISC Grants](https://github.com/yaziciceyda/Tidy-Tuesday/tree/main/2024/Week%208)
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%208/Week8.png)
 
