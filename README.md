@@ -41,5 +41,7 @@ Please check the website https://github.com/rfordatascience/tidytuesday for more
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%202/Week2.png)
 
+## Week 2 -  [Canadian NHL Player Birth Dates](https://github.com/yaziciceyda/Tidy-Tuesday/tree/main/2024/Week%202_withTest)
+
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%202_withTest/Week2_test.png)
 
