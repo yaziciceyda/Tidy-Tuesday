@@ -25,7 +25,7 @@ Please check the website https://github.com/rfordatascience/tidytuesday for more
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%206/Week6_v2.png)
 
-## Week 5 - Groundhog predictions
+## Week 5 - [Groundhog Predictions](https://github.com/yaziciceyda/Tidy-Tuesday/tree/main/2024/Week%205)
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%205/Week5.png)
 
