@@ -13,7 +13,7 @@ Please check the website https://github.com/rfordatascience/tidytuesday for more
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%208/Week8.png)
 
-## Week 7 - Valentine's Day consumer data 
+## Week 7 - [Valentine's Day consumer data](https://github.com/yaziciceyda/Tidy-Tuesday/tree/main/2024/Week%207) 
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%207/Week7.png)
 
