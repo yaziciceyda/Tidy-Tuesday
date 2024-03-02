@@ -29,7 +29,7 @@ Please check the website https://github.com/rfordatascience/tidytuesday for more
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%205/Week5.png)
 
-## Week 4 - Educational attainment of young people in English towns
+## Week 4 - [Educational Attainment of Young People in English Towns](https://github.com/yaziciceyda/Tidy-Tuesday/tree/main/2024/Week%204)
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%204/Week4.png)
 
