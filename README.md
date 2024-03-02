@@ -5,6 +5,10 @@ Please check the website https://github.com/rfordatascience/tidytuesday for more
 
 # 2024
 
+## Week 8 - R Consortium ISC Grants
+
+![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%208/Week8.png)
+
 ## Week 7 - Valentine's Day consumer data 
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%207/Week7.png)
