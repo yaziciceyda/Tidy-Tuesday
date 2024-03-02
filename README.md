@@ -33,7 +33,7 @@ Please check the website https://github.com/rfordatascience/tidytuesday for more
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%204/Week4.png)
 
-## Week 3 - US Polling Places 2012-2020
+## Week 3 - [US Polling Places 2012-2020](https://github.com/yaziciceyda/Tidy-Tuesday/tree/main/2024/Week%203)
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%203/Week3.png)
 
