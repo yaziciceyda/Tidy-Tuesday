@@ -5,4 +5,3 @@ Please check the website https://github.com/rfordatascience/tidytuesday for more
 
 ## Week 2 - Canadian NHL Player Birth Dates
 
-![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2024/Week%201/Week1.png)
