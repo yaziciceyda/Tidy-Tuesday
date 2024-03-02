@@ -5,6 +5,10 @@ Please check the website https://github.com/rfordatascience/tidytuesday for more
 
 # 2024
 
+## Week 5 - Groundhog predictions
+
+![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%205/Week5.png)
+
 ## Week 4 - Educational attainment of young people in English towns
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%204/Week4.png)
