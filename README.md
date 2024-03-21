@@ -5,6 +5,10 @@ Please check the website https://github.com/rfordatascience/tidytuesday for more
 
 # 2024
 
+## Week 10 - [Trash Wheel Collection Data](https://github.com/yaziciceyda/Tidy-Tuesday/tree/main/2024/Week%2010)
+
+![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%2010/Week10.png)
+
 ## Week 9 - [Leap Day](https://github.com/yaziciceyda/Tidy-Tuesday/tree/main/2024/Week%209)
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%209/Week9.png)
