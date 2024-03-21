@@ -5,6 +5,10 @@ Please check the website https://github.com/rfordatascience/tidytuesday for more
 
 # 2024
 
+## Week 11 - [Fiscal Sponsors](https://github.com/yaziciceyda/Tidy-Tuesday/tree/main/2024/Week%2011)
+
+![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%2011/Week11.png)
+
 ## Week 10 - [Trash Wheel Collection Data](https://github.com/yaziciceyda/Tidy-Tuesday/tree/main/2024/Week%2010)
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%2010/Week10.png)
