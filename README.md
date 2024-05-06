@@ -5,6 +5,10 @@ Please check the website https://github.com/rfordatascience/tidytuesday for more
 
 # 2024
 
+## Week 15 - [2023 & 2024 US Solar Eclipses](https://github.com/yaziciceyda/Tidy-Tuesday/tree/main/2024/Week%2015)
+
+![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%2015/Day8.png)
+
 ## Week 14 - [Du Bois Visualization Challenge 2024](https://github.com/yaziciceyda/Tidy-Tuesday/tree/main/2024/Week%2014)
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%2014/Day10.png)
