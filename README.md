@@ -5,6 +5,10 @@ Please check the website https://github.com/rfordatascience/tidytuesday for more
 
 # 2024
 
+## Week 12 - [X-Men Mutant Moneyball](https://github.com/yaziciceyda/Tidy-Tuesday/tree/main/2024/Week%2012)
+
+![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%2012/Week12.png)
+
 ## Week 11 - [Fiscal Sponsors](https://github.com/yaziciceyda/Tidy-Tuesday/tree/main/2024/Week%2011)
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%2011/Week11.png)
