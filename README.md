@@ -5,6 +5,10 @@ Please check the website https://github.com/rfordatascience/tidytuesday for more
 
 # 2024
 
+## Week 14 - [Du Bois Visualization Challenge 2024](https://github.com/yaziciceyda/Tidy-Tuesday/tree/main/2024/Week%2014)
+
+![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%2014/Day10.png)
+
 ## Week 13 - [NCAA Men's March Madness](https://github.com/yaziciceyda/Tidy-Tuesday/tree/main/2024/Week%2013)
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%2013/Week13.png)
