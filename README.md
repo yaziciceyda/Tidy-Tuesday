@@ -5,6 +5,10 @@ Please check the website https://github.com/rfordatascience/tidytuesday for more
 
 # 2024
 
+## Week 16 - [Shiny Packages](https://github.com/yaziciceyda/Tidy-Tuesday/tree/main/2024/Week%2016)
+
+![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%2016/Week16.png)
+
 ## Week 15 - [2023 & 2024 US Solar Eclipses](https://github.com/yaziciceyda/Tidy-Tuesday/tree/main/2024/Week%2015)
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%2015/Day8.png)
