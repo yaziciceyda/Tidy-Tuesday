@@ -5,7 +5,7 @@ Please check the website https://github.com/rfordatascience/tidytuesday for more
 
 # 2024
 
-## Week 17 - Objects Launched into Space](https://github.com/yaziciceyda/Tidy-Tuesday/tree/main/2024/Week%2017)
+## Week 17 - [Objects Launched into Space](https://github.com/yaziciceyda/Tidy-Tuesday/tree/main/2024/Week%2017)
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%2017/Week17.png)
 
