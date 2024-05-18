@@ -5,6 +5,10 @@ Please check the website https://github.com/rfordatascience/tidytuesday for more
 
 # 2024
 
+## Week 20 - [The Great American Coffee Taste Test](https://github.com/yaziciceyda/Tidy-Tuesday/tree/main/2024/Week%2020)
+
+![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%2020/Week20.png)
+
 ## Week 19 - [Rolling Stone Album Rankings](https://github.com/yaziciceyda/Tidy-Tuesday/tree/main/2024/Week%2019)
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%2019/Week19.png)
