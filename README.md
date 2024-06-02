@@ -17,6 +17,10 @@ Please check the website https://github.com/rfordatascience/tidytuesday for more
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%2019/Week19.png)
 
+## Week 18 - [Worldwide Bureaucracy Indicators](https://github.com/yaziciceyda/Tidy-Tuesday/tree/main/2024/Week%2018)
+
+![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%2018/Week18.png)
+
 ## Week 17 - [Objects Launched into Space](https://github.com/yaziciceyda/Tidy-Tuesday/tree/main/2024/Week%2017)
 
 ![image](https://github.com/yaziciceyda/Tidy-Tuesday/blob/main/2024/Week%2017/Week17.png)
